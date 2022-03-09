@@ -13,8 +13,8 @@ elif num <60 and num >50:
     print('You got C+ grade')
 elif num <50 and num >40:
     print('You got C grade')
-elif num<0:
-    print('Invalid Option!')
+# elif num<0:
+#     print('Invalid Option!')
 
 else :
     print('Sorry! You are fail')
