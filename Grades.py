@@ -16,5 +16,5 @@ elif num <50 and num >40:
 # elif num<0:
 #     print('Invalid Option!')
 
-else :
-    print('Sorry! You are fail')
+# else :
+#     print('Sorry! You are fail')
